@@ -1,12 +1,7 @@
-# Demographic Data Analyzer
+# Assignment: Demographic Data Analyzer
+This is an exercise in using Pandas to answer questions about a demographic dataset.
 
-You will be working on this project with our Gitpod starter code.
-
-We are still developing the interactive instructional part of the Python curriculum. For now, here are some videos on the freeCodeCamp.org YouTube channel that will teach you everything you need to know to complete this project:
-
-Python for Everybody Video Course (14 hours)
-
-How to Analyze Data with Python Pandas (10 hours)
+## Instructions:
 
 In this challenge you must analyze demographic data using Pandas. You are given a dataset of demographic data that was extracted from the 1994 Census database. Here is a sample of what the data looks like:
 ```
